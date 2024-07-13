@@ -36,6 +36,14 @@ body{
     padding: 10px;
     font-size: larger;
     border-radius: 20px;
-    background-color: rgb(241, 228, 228);
+    background-color: black;
+    color: white;
     cursor: pointer;
+    box-shadow: rgb(50, 49, 49) 1px 7px;
+    transition-duration: 0.1s;
+    transition-timing-function: ease-in;
+}
+.change:active{
+    box-shadow: rgb(92, 81, 81) 0px 0px;
+    transform: translateY(5px);
 }
