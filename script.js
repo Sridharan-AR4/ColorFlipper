@@ -10,22 +10,22 @@ btn.addEventListener('click',function(){
         n=Math.floor(Math.random()*16);
         switch(n){
             case 15:
-                color+='f';
+                color+='F';
                 break;
             case 14:
-                color+='e';
+                color+='E';
                 break;
             case 13:
-                color+='d';
+                color+='D';
                 break;
             case 12:
-                color+='c';
+                color+='C';
                 break;
             case 11:
-                color+='b';
+                color+='B';
                 break;
             case 10:
-                color+='a';
+                color+='A';
                 break;
             default:
                 color+=n;
