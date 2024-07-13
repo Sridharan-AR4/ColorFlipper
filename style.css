@@ -39,7 +39,7 @@ body{
     background-color: black;
     color: white;
     cursor: pointer;
-    box-shadow: rgb(50, 49, 49) 1px 7px;
+    box-shadow: rgb(50, 49, 49) 0px 7px;
     transition-duration: 0.1s;
     transition-timing-function: ease-in;
 }
