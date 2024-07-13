@@ -1,7 +1,7 @@
 Color Flipper
 
    => A simple web application that changes the background color to a random color each time a button is clicked. This project is built using HTML, CSS, and JavaScript.
-You can see a live demo of the Color Flipper https://colorflipper.netlify.app
+You can see a live demo of the Color Flipper https://colorflipper2024.netlify.app
 
 Features
 
